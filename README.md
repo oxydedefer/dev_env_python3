@@ -6,4 +6,4 @@
 
 **run:**
 
-    docker run -ti -v ${PWD}:/code dev_env_python3
+    docker run -v ${PWD}:/code dev_env_python3
